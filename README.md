@@ -1,6 +1,6 @@
 # Portfolio
 
-HACS=>projects,hackathon
-open source gssoc
-additional education(courses)
+HACS=>projects,hackathon</br>
+open source gssoc</br>
+additional education(courses)</br>
 resume
