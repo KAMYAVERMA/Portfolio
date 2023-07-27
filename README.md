@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-![Personal Portfolio](portfolio-screenshot.png)
+![iconn3](https://github.com/KAMYAVERMA/Portfolio/assets/85511676/b9822678-d6fb-461d-949b-327092a01179)
 
 ## Description
 
@@ -14,9 +14,9 @@ This repository contains a single page web application that serves as my persona
 
 ## Screenshots
 
-![Home](screenshots/home.png)
-![Projects](screenshots/projects.png)
-![Contact](screenshots/contact.png)
+![home](https://github.com/KAMYAVERMA/Portfolio/assets/85511676/5614c739-a881-4f8d-9f5f-d4ec65971056)
+![projects](https://github.com/KAMYAVERMA/Portfolio/assets/85511676/530115b4-2a14-4f96-8998-f2e751653633)
+![conatact page](https://github.com/KAMYAVERMA/Portfolio/assets/85511676/e9454f24-461c-4249-b723-26cf352d6042)
 
 ## Demo
 
