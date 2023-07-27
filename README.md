@@ -20,7 +20,7 @@ This repository contains a single page web application that serves as my persona
 
 ## Demo
 
-[Live Demo](https://kamayverma.netlify.app/)
+[Live Demo](https://kamyaverma.netlify.app/)
 
 ## Technologies Used
 
