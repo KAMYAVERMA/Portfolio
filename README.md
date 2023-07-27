@@ -1,6 +1,3 @@
-open source gssoc</br>
-additional education(courses)</br>
-resume
 # Personal Portfolio
 
 ![Personal Portfolio](portfolio-screenshot.png)
